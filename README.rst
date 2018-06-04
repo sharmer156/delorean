@@ -1,5 +1,5 @@
 
-
+处理python的库和数据的时间问题，（本reademe的格式也值得注意）
 .. image:: http://delorean.readthedocs.org/en/latest/_static/delorean.png
 
 Delorean: Time Travel Made Easy
